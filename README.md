@@ -1,8 +1,7 @@
 ### Oiiee... Me chamo Eduardo Ruggiero 
 
 
-  🔭 Procuro oportunidade como desenvolvedor JavaScript júnior
-  🌱 Estudando React js e Node.js
+ Me considero um grande amante da tecnologia. Com isso, larguei a faculdade de direito há um ano para correr atrás do que realmente gosto de fazer, mexer com tecnologia. Sou apaixonado por games e por isso me fidelizei ao mundo tecnológico, é um universo que com certeza vale a pena estar. 
 
   <div align="center">
   <a href="https://github.com/Ruggiero30">
